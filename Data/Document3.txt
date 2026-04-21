@@ -1,0 +1,103 @@
+media. At least for the young, those who we consider as digital natives, FB is a natural part of
+their media habits and for many of them, there could be a reliance on the platform for expo-
+sure to political news. It is thus as important to know the quality of their use of this media plat-
+form.[24]
+This study is interested in the idea of reliance on FB for information, that is, the degree
+to which users are dependent on FB for news so that without it, they would have limited
+exposure. We hypothesize that those who are reliant on FB were not politically engaged and
+interested to begin with, and thus, would have little political knowledge outside of their FB
+feed.
+The empirical association between political knowledge and interest, engagement, and par-
+ticipation in civic and political activities is well-established (e.g., [25–26]). Understandably,
+one’s decisions concerning participation depends on relevant political knowledge.[27] The
+positive relationship between Internet use and participation is stronger with interactive plat-
+forms like blogs and social networks rather than static platforms online.[28] Social media use,
+especially for political content, has been found to correlate with various forms of political par-
+ticipation (e.g., [29–30]), although some conflicting findings also question whether these are
+effects and whether they are direct or indirect.[26] Further, others contend that the Internet
+has caused many to retract from public life.[12] Gil de Zuniga, Jung, and Valenzuela find evi-
+dence that information seeking on social media sites are predictive of online and offline partic-
+ipatory behaviors.[27] These existing studies guide our further hypothesis that following
+various sources of political news on FB feeds, like government institutions, pages of politicians
+and candidates, or news pages, would be associated with higher levels of political engagement
+and interest, including higher levels of political discussion with others.[31–32] These associa-
+tions are hypothesized to exist independently of traditional news media exposure.
+Reliance on FB for political news content would mean that one’s news exposure is influ-
+enced more strongly by the mechanisms on the platform that determine what kinds of news
+and political content appears on a person’s news feed. The main factors that influence the con-
+tent you would see on your feed may be likened to filtering: the stories that people in your
+social network share, the stories that are viral or trending (popular), and those that are pushed
+by paid advertising.[27] Each of these factors interact with the other, for instance news stories
+that are “liked” by people in a social network and are trending in the broader environment, are
+more likely to appear on your feed.
+It is possible that political content exposure on social media is amplified in effect compared
+to traditional media. People are able to translate their interests into participation because what
+they see include opinions and emotional appeals of people that they know. We are more
+inclined to pay attention to utterances from friends and family, and more likely to think more
+carefully about arguments that come from them rather than strangers or even reporters.
+Groups now turn to social media for recruitment, to expand their constituency.[31, 33] This
+line of argument privileges social capital as a key enabler of participative behaviors, both online
+and offline.[7, 27, 34]
+Since content shared and posted across FB are diverse, and only a portion of it is political in
+nature, we expect that those whose social networks have more politically active people will
+have greater exposure to news content than others, and that this would be associated with
+higher levels of political knowledge and engagement. This is consistent with findings of Wolfs-
+feld, Yarchi, and Samuel-Azranal,[35] which show that social media-based political content
+exposure is more highly correlated with traditional measures of political participation than
+regular media. The association is much stronger even, between social media-based political
+news exposure, and digital political participation.
+Reliance on Facebook for news
+PLOS ONE | https://doi.org/10.1371/journal.pone.0212263
+March 19, 2019
+3 / 15
+Facebook in the Philippines
+The Philippines just entered its status as a “middle-income” country, from a long history of
+being a poor country with a large proportion of the population living in poverty (around 22%).
+It is a country with low levels of high school and college graduation rates and generally low
+access to many forms of technology. Most recent data show laptop and desktop computer
+ownership/access at only 24.3% of households across the country,[36] most schools do not
+have computers in classrooms, and most students do not have access to one. However, the
+rapid adoption of smartphones and the sharp decline in the costs of smartphone units that are
+capable of Internet connection led to an expansion of internet access in the Philippines.
+Officially, Internet penetration rate in the country is less than 40% for a country of 101 mil-
+lion people. However, according to FB, there are over 50 million Filipinos in the country on
+their platform. Among those that report having access to the Internet, over 94% report having
+a social media account and the vast majority of them are on FB.[37] As such, the Philippines is
+often characterized as the social media capital of the world, on top of its reputation as the text-
+ing capital of the world. The leading telecommunication companies in the country offer access
+to the FB app on smartphones without charging for data usage; this further grew the popula-
+tion of Filipinos on FB.
+The Philippines has a history of low levels of political knowledge acquired from traditional
+media, no doubt owing to the very low circulation rates of newspapers (at best, 15% read the
+paper regularly). Most news consumption happens through television, and these days, social
+media. Compared to FB growth even in developed countries, FB in the Philippines grew rap-
+idly into the main driver of news traffic among the most prestigious news outlets in the coun-
+try. A paper (authors) on the role of FB on news reporting in the country reveals that among
+the top 4 news websites, FB-referred traffic accounts for between 60%-90% of clicks into news
+sites. This was a year ago and it is reasonable to think that these percentages have grown since.
+Television remains the number 1 news source across the country; but among those with Inter-
+net access, it is likely that the majority of news consumption is FB-driven.
+This unique situation of the Philippine news reading public makes it a good venue to study
+the potential implications of reliance on FB for political news. Fresh out of a contentious elec-
+tion with controversial results, FB-based campaigning and political activism have flourished
+and thrived, some say, to the detriment of civilized political debate. Online discussions and
+comments grew vicious and sometimes violent, and full of political–and personal–vitriol, thus
+recently prompting the Senate to open a hearing on the problem of social media’s effect on cul-
+ture. Clearly FB has an important role to play in the Philippines’ news use, political knowledge,
+and engagement with politics, providing an interesting context for understanding the relation-
+ships hypothesized in this study.
+Hypotheses
+Based on where we are now in the literature on social media, political knowledge, and engage-
+ment, this research seeks to contribute to this fast-growing area by looking specifically at FB as
+a news source, reliance on it as a source of news and information, and its correlation with
+political engagement.
+This research is guided by an interest in answering the research question: Is FB use associ-
+ated with political engagement, knowledge, and opinions about important political issues? To
+systematically investigate how these concepts relate to each other, the following hypotheses are
+posed:
+H1: Those on social media who rely less on FB as a news source exhibit higher levels of per-
+ceived knowledge about politics than those who rely more on it for news.
+Reliance on Facebook for news
+PLOS ONE | https://doi.org/10.1371/journal.pone.0212263
+March 19, 2019
+4 / 15

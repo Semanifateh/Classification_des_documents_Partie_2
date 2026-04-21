@@ -1,0 +1,226 @@
+11
+MEDICATION SAFETY IN POLYPHARMACY
+Introduction
+1
+This technical report does not attempt 
+to cover the entire scope of polypharmacy, 
+but merely aims to introduce polypharmacy 
+as a concept, and examine some approaches
+for the appropriate management of
+polypharmacy, which are crucial for ensuring
+greater medication safety.
+1.1 Polypharmacy
+Despite the increasing prevalence 
+of polypharmacy, the term continues to lack 
+a clear universal definition. A recent systematic
+review of the definitions of polypharmacy
+showed that the term was most commonly
+applied to situations where patients took five 
+or more medications, and this numerical
+definition was used by 46.4% of the studies
+evaluated (7). Furthermore, there are
+inconsistencies with the use regarding 
+duration of therapy and whether to include 
+over-the-counter (OTC), and traditional and
+complementary medicines in the definition 
+or not. However, with the aim of reducing
+medication-related harm, it is important 
+to verify to the fullest extent possible all 
+the medications that the patient is taking, 
+including all OTC, and traditional and
+complementary medicines. 
+While polypharmacy is often defined as
+routinely taking a minimum of five medicines,
+it is being more frequently suggested that 
+the emphasis should be on evidenced-based
+practice (7). The goal should be to reduce
+inappropriate polypharmacy (irrational
+prescribing of too many medicines) 
+and to ensure appropriate polypharmacy
+(rational prescribing of multiple medicines
+based on best available evidence and
+considering individual patient factors and
+context) (7–11). Therefore, appropriate
+polypharmacy should be considered at every
+point of initiation of a new treatment for the
+patient, and when the patient moves across
+different health care settings.
+Polypharmacy is the concurrent use 
+of multiple medications. Although there
+is no standard definition, polypharmacy 
+is often defined as the routine use of five 
+or more medications. This includes 
+over-the-counter, prescription and/or
+traditional and complementary medicines
+used by a patient (see Annex 1).
+12
+MEDICATION SAFETY IN POLYPHARMACY
+Polypharmacy has been described as 
+a significant public health challenge (13). 
+It increases the likelihood of adverse effects,
+with a significant impact on health outcomes
+and expenditure on health care resources
+(14–16). Although co-prescribing multiple
+medicines increases the risk of adverse events,
+it is important to note that assigning a numeric
+threshold to define polypharmacy is not always
+useful. There are cases where polypharmacy
+is necessary and beneficial, such as the
+secondary prevention of myocardial infarction,
+which requires the use of four different classes
+of medications (a beta blocker, a statin, an
+antiplatelet agent and an ACE inhibitor) (8, 12).
+Appropriate polypharmacy recognizes that
+patients can benefit from multiple medications
+if the patients’ clinical conditions,
+comorbidities, allergy profiles, the potential
+drug–drug and drug–disease interactions 
+are considered, and the medicines are
+prescribed based on the best available
+evidence (17). Thus, it is critical to distinguish
+appropriate polypharmacy from inappropriate
+polypharmacy (12).
+The most vulnerable patient groups to the risks
+of polypharmacy are susceptible to events 
+such as drug–drug interactions, higher risk 
+of falls, ADRs, cognitive impairment, 
+non-adherence and poor nutritional status
+(18–20). Vulnerable patient groups often 
+include older patients above the age of 
+65 years and patients who are living in care
+homes (19–21).
+1.2 Prevalence of polypharmacy
+Polypharmacy is a major and growing public
+health issue occurring within all health care
+settings worldwide (8, 13). The issue is well
+described in literature from countries in North
+America (10, 18), Europe (8, 22) and the
+Western Pacific (23), with more data becoming 
+available from other countries in recent years.
+Additional information from selected countries
+is available in Annex 2, illustrating that
+polypharmacy is a global problem. However,
+variation in the structure of health care delivery 
+and data collection systems, compounded 
+by the different operational definitions of
+polypharmacy, makes country comparison
+difficult. 
+Multimorbidity is defined as the presence 
+of two or more long-term health conditions,
+which can include (a) defined physical and
+mental health conditions such as diabetes 
+or schizophrenia; (b) ongoing conditions 
+such as learning disability; (c) symptom
+complexes such as frailty or chronic pain; 
+(d) sensory impairment such as sight or
+hearing loss; and (e) alcohol and substance
+misuse (see Annex 1).
+While its true magnitude is not known, 
+the prevalence of polypharmacy is expected 
+to rise due to a multitude of factors (8). First,
+the global population faces a demographic 
+shift with the proportion of older population
+Appropriate polypharmacy is present, when (a) all medicines are prescribed for the purpose of
+achieving specific therapeutic objectives that have been agreed with the patient; (b) therapeutic
+objectives are actually being achieved or there is a reasonable chance they will be achieved in
+the future; (c) medication therapy has been optimized to minimize the risk of adverse drug
+reactions (ADRs); and (d) the patient is motivated and able to take all medicines as intended (12).
+Inappropriate polypharmacy is present, when one or more medicines are prescribed that are
+not or no longer needed, either because: (a) there is no evidence based indication, the indication
+has expired or the dose is unnecessarily high; (b) one or more medicines fail to achieve the
+therapeutic objectives they are intended to achieve; (c) one, or the combination of several
+medicines cause ADRs, or put the patient at a high risk of ADRs or because (d) the patient is not
+willing or able to take one or more medicines as intended (12). 
+13
+MEDICATION SAFETY IN POLYPHARMACY
+groups on the rise. It has been estimated 
+that the global population aged over 65 years
+will double from 8% in 2010 to 16% in 2050
+(24). In 2015, approximately 5% of the
+population in OECD countries were aged 
+80 years and above, this percentage is
+expected to rise more than double by 2050
+(25). Second, epidemiological data indicates
+that multimorbidity increases markedly 
+with age. In a Scottish study, multimorbidity
+was prevalent in 81.5% of individuals aged 
+85 years and over, with a mean number of 3.62
+morbidities (26). Ornstein et al. found that the
+most prevalent chronic conditions in primary
+care were hypertension (33.5%), hyperlipidemia
+(33.0%), and depression (18.7%) (27). The
+presence of multiple morbidities is associated
+with multiple symptoms, impairments and
+disabilities. Multimorbidity may result in 
+a combined negative effect on physical 
+and mental health, and can have a major
+impact on a person’s quality of life, limiting
+daily activities and reducing mobility (28, 29).
+The need to take multiple medications can be
+just as problematic, resulting in frequent health
+care contacts and an increase in the likelihood
+of medication-related harm (30). Furthermore,
+it imposes a large economic burden due 
+to patients’ complexity of health care needs
+and frequent interaction with health services,
+which may be fragmented, ineffective and
+incomplete (31). 
+Despite extensive advances in
+pharmacotherapy, the availability of clinical
+guidelines for older adults with multiple
+morbidities is limited (28). Prescribing is largely
+based on evidence-based guidance for single
+diseases, which does not generally take into
+account multimorbidity (21, 28, 32).
+Consequently, patients are often prescribed
+several medicines recommended by a number
+of specialists using disease-specific guidelines
+which in combination makes the management
+of any single disease challenging and may 
+even lead to patient harm (21, 26).
+1.3 Economic impact 
+of polypharmacy
+Advancing the responsible use of medicines:
+applying levers for change identified several
+opportunities to reduce health care spending
+through more responsible use of medicines
+worldwide. The authors estimated that
+mismanaged polypharmacy contributed to 4%
+of the world’s total avoidable costs due 
+to suboptimal medicine use. A total of US$ 18
+billion, 0.3% of the global total health
+expenditure could be avoided by appropriate
+polypharmacy management. Some of the
+specific recommendations outlined in the 
+report included (33):
+• investment in medical audits targeting older
+patients with multiple medications;
+• support for a greater role of pharmacists in
+medication management and in collaboration
+with health care professionals for review 
+of therapeutic plans;
+• identification of high-risk patients and
+preparation of targeted medicine
+management plans for this group; and
+• to establish a system for blame-free reporting
+of medication errors.
+The objectives of polypharmacy management
+should be comprehensive, addressing such
+issues as improved health outcomes for 
+the patient and population, greater patient
+engagement in therapeutic decision-making
+and cost-effectiveness of health care systems
+and resources. This comprehensive approach –
+embracing care, health and cost – has been
+termed the “triple aim” strategy, and it is
+designed to guide health system performance
+optimization (34). The term has been built 
+upon to become a “quadruple aim” upon
+recognizing that staff wellbeing is essential 
+to ensure good care for the public (35). 
+Improved safety and quality leading 
+to economic benefits 
+In a randomized control trial by Gillespie et al.
+clinical pharmacists performed comprehensive
+medication reviews (see Annex 1) of older
+hospitalized patients. Patients that received 

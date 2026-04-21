@@ -1,0 +1,157 @@
+and Ebola (filoviruses), Crimean Congo hemorrhagic fever (bunyavirus), and South
+American hemorrhagic fever (arenaviruses), but less frequently associated with dengue
+(flavivirus), Rift Valley fever (bunyavirus) or Lassa fever (arenavirus). Lymphocytic
+choriomeningitis virus (LCMV) is related to Lassa fever virus, and some strains of LCMV
+can be used to model aspects of severe Lassa fever.
+The Arenaviridae have the largest number of virus species known to cause VHF. At least 10
+new arenaviruses have been discovered in the last 3 years as a result of both rodent surveys
+and disease outbreaks (Briese et al., 2009; Cajimat et al., 2007; 2008; Delgado et al., 2008;
+Gunther et al., 2009; Lecompte et al., 2007; Milazzo et al., 2008; Palacios et al., 2008; 2010;
+Vieth et al., 2007), but not all of the new viruses qualify as distinct arenavirus species
+(Salvato et al., 2011).
+Clinical signs of VHF are fever, rash, buccal sores, thrombocytopenia, vascular leakage,
+bleeding, edema and elevation of hepatic enzymes. Despite these universal signs, their
+frequency and underlying disease mechanisms differ from one virus family to another. Our
+goals were to examine the initial stages of arenavirus hemorrhagic fever in order to define
+early treatment targets. We used lymphocytic choriomeningitis virus strain WE (LCMV-
+WE), a risk group 3 virus that, when introduced into rhesus macaques, causes a disease that
+closely resembles human infection with Lassa fever virus, a risk group 4 agent (NIH
+Guidelines, 2009). This article reviews our findings and may guide other researchers who
+want to build on our experiences with the LCMV-infected non-human primate model. We
+hope to convince readers that this model will be most useful for testing antiviral approaches
+that target host molecules.
+2. Arenaviruses and arenaviral hemorrhagic fever
+The first arenavirus isolated was lymphocytic choriomeningitis virus (LCMV) from
+cerebrospinal fluid of people with aseptic meningitis (Armstrong and Lillie, 1934; Rivers
+and Scott, 1935; Traub, 1936). Since these patient samples were passaged in laboratory
+mice, it was difficult to distinguish whether the virus came from mouse or man.
+Nevertheless, viruses were exchanged between three laboratories and their relationship was
+confirmed by serology (Rivers and Scott, 1936). In 1956, Tacaribe virus (TCRV) was found
+in Caribbean fruit bats (Downs WG, et al., 1963), making it the only arenavirus to have a
+non-rodent reservoir. Research in the 1960’s identified morphological and serological
+characteristics of the family Arenaviridae. In 1969, Lassa fever virus was identified by its
+grainy morphology that was similar to electron micrographs of other arenaviruses including
+laboratory strains of LCMV and several South American viruses (Buckley and Casals, 1970;
+Rowe et al., 1970; Ruggiero et al., 1964).
+The arenaviruses have since been characterized as rodent-borne enveloped viruses with a bi-
+segmented ambisense single-stranded RNA genome. The large (L) RNA segment encodes
+the virus polymerase (L protein) in the negative sense and matrix (Z protein) in the positive
+sense, whereas the small (S) RNA segment encodes the nucleocapsid protein (NP) in the
+negative sense and glycoprotein precursor (GPc) in the positive sense (Salvato and
+Shimomaye, 1989). LCMV and Lassa virus belong to Old World arenavirus lineages
+whereas the American arenaviruses belong to the New World lineages (Salvato et al., 2004,
+2011). During European migrations to the Americas in the 16th century, LCMV probably
+arrived via murine hosts well after the New World lineages had been established amongst
+Sigmodontine rodents of the Americas (Albariño et al., 2010).
+Zapata et al.
+Page 2
+Antiviral Res. Author manuscript; available in PMC 2012 November 1.
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+3. LCMV and its natural host range
+The natural reservoir hosts for arenaviruses are rodents (with the exception of TCRV that
+was isolated from bats), whereas human beings and non-human primates are incidental
+hosts. It is remarkable that the reservoir hosts are unscathed by infection, aside from some
+decreases in fecundity, whereas primates occasionally develop severe disease. Outbreaks of
+VHF are related to increased contact with natural reservoir hosts. For example, the incidence
+of human infection with Junin virus, the agent for Argentine hemorrhagic fever, coincides
+with the prevalence of infections amongst local rodents (Mills et al., 1992).
+The LCMV host range includes monkeys, dogs, guinea pigs, rabbits, chickens and rodents
+(Parker et al, 1976; Skinner and Knight, 1979), but rodents such as mice and hamsters often
+carry inapparent infections while they are viremic and viruric. LCMV infection of mice has
+been an excellent model for studying viral persistence, immunological tolerance, and
+immunopathogenesis (reviewed by Buchmeier et al., 1980; Lehmann-Grube, 1984;
+Oldstone, 2002).
+4. Spectrum of LCMV infection of humans
+4.1. Common forms of illness
+LCMV infections in people occur infrequently and are usually related to ingestion,
+inhalation or direct contact with virus shed by mice, hamsters or guinea pigs. Most LCMV
+infections are subclinical or mild flu-like illnesses (Barton and Hyndman, 2000). Symptoms
+appear 6 to 20 days after exposure and include fever, nausea, stiff neck, occasional
+photophobia, and headache that is poorly responsive to non-steroidal anti-inflammatory
+drugs. Disease rarely advances from meningitis (inflammation of the meninges) to
+encephalitis (extensive inflammation resulting in confusion and cognitive impairment).
+Disease is rarely fatal and is more often transmitted to people from rodents than from other
+human beings; so LCMV infection is not considered an important public health threat. The
+commonly seen LCMV disease represents the mild end of a spectrum, the extreme end of
+which is occupied by severe hemorrhagic fever.
+LCMV has been a frequent contaminant of tissue cultures and of experimental mice, guinea
+pigs and hamsters. Consequently, numerous outbreaks of aseptic meningitis in laboratory
+workers or animal handlers have been traced to LCMV infection (Bowen, 1975; Deibel et
+al., 1975; Hinman et al., 1975; Smith et al., 1984; Emonet et al., 2007).
+Seroprevalence amongst residents of Birmingham, Alabama ranged from 0.3% in residents
+under 30 years of age to 5.4% in residents over the age of 30 (Park et al., 1997). Residents of
+Baltimore showed a 4.7% seroprevalence (Childs et al., 1991) at the same time that the
+Baltimore rodent population had a 3.9-13.4% seroprevalence (Childs et al., 1992).
+Serosurveys of patients hospitalized with aseptic meningitis revealed 10% positivity for
+LCMV, especially during winter months when mice move indoors (Adair et al., 1953;
+Barton and Hyndman 2000). Foci of murine LCMV infection (37% of 56 samples) have
+been noted in Bratislava, Slovakia (Reiserova et al., 1999), and in New South Wales,
+Australia where a survey identified 30-52% of the feral mice to be seropositive for LCMV
+(Smith et al., 1993).
+4.2. Occurrence of more severe disease
+During the third trimester of pregnancy, a relatively immune-suppressed state, LCMV
+infection can achieve high viral titers with disastrous consequences for the fetus. Congenital
+LCMV infections have been known to cause birth defects such as hydrocephalus,
+chorioretinitis and mental retardation (Barton et al., 2002). It has been suggested that the
+Zapata et al.
+Page 3
+Antiviral Res. Author manuscript; available in PMC 2012 November 1.
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+effects of LCMV on transcription factors like PRH/HEX account for the irreversible effects
+of this virus on neuronal development (Djavani et al., 2005). Ribavirin, a nucleoside analog
+with therapeutic efficacy during early LASV or LCMV infection, is not recommended in
+pregnancy due to its teratogenicity.
+Cases of lethal human LCMV infection also resulted from transplantation of LCMV-
+infected organs (Fisher et al., 2006). In one case, the donor could not be linked to any rodent
+exposure. In another case the donor had come in contact with a pet hamster carrying LCMV,
+then suffered a severe headache and died of a brainstem herniation. Transplanted organs
+caused fatal infections in seven of eight recipients; the sole survivor had received ribavirin.
+One of the recipients was a woman who died 17 days after her liver transplant with fever,
+rash, diarrhea, hypernatremia, thrombocytopenia, hypoxia and kidney failure (Fisher et al.,
+2006). It is controversial whether the severity of these deaths was more related to the
+immune-suppressed state of the transplant recipients, the dose of the virus, or the strain of
+LCMV involved. From our experience with SIV-infected monkeys, given mild and virulent
+strains of LCMV, the mild strain Armstrong (LCMV-ARM) remained mild in the context of
+SIV-infection, and the virulent strain (LCMV-WE) did not progress more rapidly due to the
+SIV infection (Salvato and Zapata, unpublished observation). Although SIV-infection does
+not provide as drastic an immune-suppression as the T-cell ablation imposed upon transplant
+recipients (Wallace et al., 2000), it is possible that the severity of the transplant infections
+was due to dose and strain of LCMV as well as to immune-suppression.
+5. Spectrum of LCMV infection in laboratory animals
+5.1. Rodents
+LCMV infection of its natural reservoir host, the mouse, can vary widely depending on the
+age and strain of the mouse and the dose, strain and infection-route of the virus. In general,
+infection of adult immunocompetent mice elicits a vigorous cell-mediated immune response
+that peaks in one week and clears the infection within two weeks (Zinkernagel and Doherty,
+1974). Interference with cell-mediated immunity (by pregnancy or by genetic or chemical
+knockout) usually results in chronic infection. From the 1970’s to the 1990’s LCMV
+infection of inbred laboratory mice was the best experimental system for defining immune
+responses to chronic infection. In the 1990’s, AIDS superseded LCMV disease, but chronic
+LCMV infections continue to reveal immunological mechanisms relevant to AIDS
+progression (Velu et al., 2009).
+Hallmarks of murine LCMV infection such as lymphocytic infiltration into the
+choriomeninges and breakdown of the blood-brain barrier (Doherty et al., 1986) are less
+pronounced in LCMV and Lassa-infected primates. The cell-mediated immune response so
+valued for its ability to clear infection can be dangerous when the virus is inoculated
+intracerebrally causing mice to die from immunopathological choriomeningitis. Over the
+years, immunopathology has been further defined at a molecular and cellular level. (Doherty
+and Zinkernagel, 1974) and others (Ahmed et al., 1984; Gilden et al., 1972) used adoptive
+transfer and antibody ablation to eliminate the effectors of immune pathology. Antibody
+treatments of mice with anti-CD8 serum eliminated both virus-specific MHC-restricted T
+cells and immunopathology. Knockout mice lacking molecules involved in the cytotoxic T
+cell response (perforin, granzymes, interferon and interferon receptors) also knocked-out the
+immunopathological response (Kagi et al., 1996; Nansen et al, 1999). Thus, by blunting the
+vigor of the cell-mediated immune response, immunopathology was alleviated and mice
+were able to slip into a relatively mild chronically-infected state.
+The infection outcomes of LCMV strains used commonly in mice bear little resemblance to
+outcomes with the same viruses in primates. The LCMV-WE we used in non-human
+Zapata et al.
+Page 4
+Antiviral Res. Author manuscript; available in PMC 2012 November 1.
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript

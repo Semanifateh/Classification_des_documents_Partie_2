@@ -1,0 +1,186 @@
+In order to attain medication safety in
+polypharmacy management, a strategy could
+be developed using the strategic framework of
+the third WHO Global Patient Safety Challenge:
+Medication Without Harm. The key domains 
+to be addressed as part of this framework
+include patients and the public, medicines,
+health care professionals, and systems and
+practices of medication. The four domains 
+and the cross-cutting theme of monitoring 
+and evaluation are elaborated in the following
+sections, addressing a health system 
+approach for implementing polypharmacy
+programmes under the umbrella of 
+the Challenge.
+4.1 Patients and the public
+The role of patients in delivering
+appropriate polypharmacy
+Raising patient awareness about the problems
+of polypharmacy and non-adherence is
+important, as patients can play a key role in the
+prevention and early detection of inappropriate
+polypharmacy (11, 21). Patients should be 
+seen as shared decision-makers on the use of
+medication, and health care professionals need
+to support patients, families and caregivers in
+order to enable them to undertake this role (8).
+Patients should be encouraged and supported
+to disclose all the medications they are taking,
+including OTC and traditional and
+complementary medicines, especially if they
+are suffering from multiple conditions and are
+being treated with polypharmacy (94). Health
+literacy, social norms and cultural factors 
+would need to be taken into account when
+considering the role of patients, and designing
+materials for patient education (95, 96). 
+Patient tools and materials can support the
+engagement and empowerment of patients,
+families and caregivers in playing an active 
+role in health care. Such resource materials
+may include:
+• Patient-held medication list or patient-held
+medication record, sometimes called
+medication passport (either paper or
+electronic), can help to optimize patients’
+medicines. The use of these tools has
+received positive feedback from patients (97).
+Such lists, provided that they are up-to-date,
+can also be helpful at care transitions (98).
+• Patient resource materials that enable
+patients to understand how to make
+decisions regarding management of their
+health conditions and their medications 
+are available (99, 100). An example of 
+a tailormade tool is the Medicine Sick Day
+Rules card, which explains to patients which
+medicines should be temporarily stopped
+during dehydration due to an illness (101).
+Different organizations, including WHO, 
+have developed materials that include 
+simple questions to encourage patients 
+to be active participants in their therapeutic
+decision-making (102–104). For example, 
+the 5 Moments for Medication Safety focuses
+on five key moments in the medication use
+process, where action by the patient, family
+member or caregiver can greatly reduce 
+the risk of harm associated with the use 
+of medications. The tool aims to engage 
+and empower patients to be involved in their
+own care in a more proactive way and feel
+responsible for it, encourage their curiosity
+about the medications they are taking,
+empower them to communicate openly 
+with their health professionals and be
+involved in shared decision-making (104).
+Technology could improve both patient
+experience and medication adherence.
+Furthermore, it has potential to enable patients
+to be active participants in medication reviews.
+However, more research is required to evaluate
+strategies for integrating such tools into clinical
+practice and to ensure they meet their potential
+in improving patient outcomes and creating
+value for all users (105, 106).
+Prioritizing patients for medication reviews
+in polypharmacy 
+Due to limited resources in most health care
+systems, patients who may benefit from
+medication reviews need to be prioritized.
+There are many factors that could increase 
+the likelihood of predisposing a patient to harm
+24
+MEDICATION SAFETY IN POLYPHARMACY
+25
+MEDICATION SAFETY IN POLYPHARMACY
+from medication. Research has shown that
+patients on multiple medications have 
+a higher risk of medication-related harm, due 
+to harm from occurrences such as drug–drug
+interactions, falls and adverse events (8, 48).
+Any methods for identifying patients at risk due
+to polypharmacy need to be considered in the
+clinical context. Even in resource-limited
+settings with inadequate health information
+databases, the following criteria can be applied
+to identify situations where a medication review
+may prove beneficial:
+• residents in a care home setting (12, 21)
+• patients on high-risk (high-alert) medications
+(see Annex 1) (12)
+• patients taking 10 or more medicines 
+(12, 21, 107)
+• patients with two or more co-morbidities (12)
+• patients with frailty (12, 77, 20)
+• patients with dementia (12, 108)
+• palliative care situations (8, 12)
+4.2 Health care professionals
+Health care professionals and policy-makers
+can take a leadership role in raising awareness
+among peers regarding the role of medication
+review in reducing the harm associated 
+with inappropriate polypharmacy (11). 
+Development of multidisciplinary workforce
+through changes in undergraduate,
+postgraduate, and continuing professional
+development has been identified as a key area
+to address polypharmacy (22). Educational
+curricula for health care professionals, including
+physicians, pharmacists and nurses, should
+include safe medication management to
+develop necessary competencies and skills 
+for addressing risks associated with
+polypharmacy (109). To help support education
+of health care professionals, a set of clinical
+case studies are presented in Annex 4.
+Existing guidelines that incorporate key steps
+for patient-centered medication review should
+be shared to ensure the dissemination of best
+practices, including the importance of sharing
+the information about the outcomes of 
+the medication review in polypharmacy 
+with relevant health care professionals.
+Establishing support networks to enable 
+health care professionals in sharing scientific
+and practical information on polypharmacy 
+may assist in that regard. There are several
+special interest groups focusing on appropriate
+polypharmacy available internationally
+(110–112).
+Health care professionals working in
+multidisciplinary teams deliver optimum
+outcomes for patients. They need to be
+aware of human factors that may affect their
+performance and the performance of others
+(113). Knowledge of human factors can be
+further useful in communication with 
+patients and in shared decision-making 
+in polypharmacy (109).
+A study from Hawaii revealed that many older
+persons were uncertain about the information
+about their medications and did not exhibit
+confidence on understanding the ADRs
+associated with use of multiple medications
+(114). This emphasizes the need for
+interventions that are aimed at enhancing 
+the provider–patient interaction about
+polypharmacy and medication reviews. 
+Safety culture should be addressed to enable
+health care professionals and patients 
+to discuss issues of polypharmacy, so that
+patients feel that it is safe and acceptable 
+to ask questions (95). For example, Choosing
+Wisely campaign focuses on promoting
+dialogue between health care professionals 
+and patients; with the aim to reduce utilization
+of inappropriate tests and medical treatment,
+empower patients to ask questions, and help
+patients to choose evidence-based care (115).
+4.3 Medicines
+Polypharmacy and drug interactions 
+Patients with polypharmacy might be subject 
+to drug–drug, drug–food, drug–disease 
+or herb–drug interactions (116). Detection 
+of drug interactions should be included 
