@@ -43,8 +43,8 @@ Le système couvre :
 │   └── 06-classify_text.py
 │
 └──README.md
-
----```
+```
+---
 
 ## 📁 Dossiers importants
 
