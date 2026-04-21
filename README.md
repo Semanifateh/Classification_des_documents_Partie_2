@@ -18,7 +18,7 @@ Le système couvre :
 ---
 
 ## 🚀 Structure du projet
-
+```text
 .
 ├── Data
 │   ├── clean_dataset.csv
