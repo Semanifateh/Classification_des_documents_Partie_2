@@ -118,10 +118,3 @@ pip install nltk pandas scikit-learn tensorflow sqlalchemy pymupdf joblib
 6. python src/06-classify_text.py
 
 ---
-
-## 🔮 Améliorations
-
-- Classification multi-classes
-- Word2Vec / BERT
-- Application .exe
-- Interface web
